@@ -1,3 +1,10 @@
+## [0.12.1](https://github.com/herteleo/pigment/compare/0.12.0...0.12.1) (2020-08-13)
+
+
+### Bug Fixes
+
+* change repository url ([fdad127](https://github.com/herteleo/pigment/commit/fdad127269d49237379a02b076bce96cf65b98fd))
+
 # [0.12.0](https://github.com/pigmentapp/pigment/compare/0.11.0...0.12.0) (2020-08-11)
 
 
