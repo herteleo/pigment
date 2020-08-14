@@ -1,3 +1,10 @@
+## [0.12.9](https://github.com/herteleo/pigment/compare/0.12.8...0.12.9) (2020-08-14)
+
+
+### Bug Fixes
+
+* test release 9 ([ef64198](https://github.com/herteleo/pigment/commit/ef64198961c9275ce565d2d77f405ecb01786cd8))
+
 ## [0.12.8](https://github.com/herteleo/pigment/compare/0.12.7...0.12.8) (2020-08-14)
 
 
