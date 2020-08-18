@@ -1,3 +1,10 @@
+# [0.13.0](https://github.com/herteleo/pigment/compare/0.12.13...0.13.0) (2020-08-18)
+
+
+### Features
+
+* integrate app update checker and automatic updates ([ec72b97](https://github.com/herteleo/pigment/commit/ec72b97ca598e4dfd3c5a1513758606b1301130d))
+
 ## [0.12.13](https://github.com/herteleo/pigment/compare/0.12.12...0.12.13) (2020-08-18)
 
 
