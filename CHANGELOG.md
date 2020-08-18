@@ -1,3 +1,10 @@
+## [0.13.1](https://github.com/herteleo/pigment/compare/0.13.0...0.13.1) (2020-08-18)
+
+
+### Bug Fixes
+
+* call remote update checker ([b1d9b09](https://github.com/herteleo/pigment/commit/b1d9b09793e60fac03c134f567c85a59b5607f72))
+
 # [0.13.0](https://github.com/herteleo/pigment/compare/0.12.13...0.13.0) (2020-08-18)
 
 
